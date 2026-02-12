@@ -1,3 +1,5 @@
+<img width="1470" height="789" alt="尼崎バスケットボールスクール" src="https://github.com/user-attachments/assets/46064397-f820-4231-90f1-305d69b27356" />
+
 尼崎バスケットボールスクール LP
 
 公開URL
