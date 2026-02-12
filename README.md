@@ -1,23 +1,56 @@
-# amagasaki-basketball-school-lp
-小学生・中学生向けのバスケットボールスクールを想定したランディングページを制作しました。 コーチの人的価値を重視した中で、無料体験への導線設計を重視し、スマートフォンユーザーを中心に構成しています。
+尼崎バスケットボールスクール LP
 
-## Overview
-Landing page for a basketball school targeting elementary and junior high school students.
+公開URL
 
-## Features
-- Responsive design (mobile-first)
-- Hero section
-- Features section
-- Course cards
-- Coach introduction
-- Contact form
-- Fixed mobile CTA (appears after scroll)
+https://benevolent-capybara-f3b434.netlify.app/
 
-## Tech
-- HTML
-- Tailwind CSS
-- JavaScript
-- Netlify
+⸻
 
-## Live
-https://amagasaki-basketball-school.netlify.app
+概要
+
+小学生・中学生向けのバスケットボールスクールを想定したランディングページです。
+保護者が安心して体験申込できることを目的に制作しました。
+
+⸻
+
+制作背景（課題設定）
+
+地域のスポーツスクールでは、以下の課題があると想定しました。
+	•	スクールの雰囲気が分からず不安
+	•	コーチの人柄が見えない
+	•	体験申込までの導線が分かりにくい
+
+そこで本サイトでは、
+	•	コーチ紹介を充実させ安心感を提供
+	•	保護者目線で情報設計
+	•	各セクションに体験申込ボタンを設置
+  
+  申込率の向上を目的として設計しました。
+
+⸻
+
+工夫したポイント
+
+デザイン
+	•	信頼感を与える青系カラーで統一
+	•	子ども向けだが、保護者にも安心感のある落ち着いたデザイン
+	•	余白を広めに取り、読みやすさを重視
+
+レスポンシブ対応
+	•	スマートフォン表示を重視して設計
+	•	文字サイズ・余白・ボタン配置を調整
+
+⸻
+
+使用技術
+	•	HTML
+	•	CSS
+	•	JavaScript
+	•	Netlify（公開）
+
+⸻
+
+今後の改善点
+	•	フォーム機能の実装
+	•	アニメーションの追加
+	•	表示速度の最適化
